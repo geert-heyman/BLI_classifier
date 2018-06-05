@@ -1,9 +1,9 @@
 # BLI_classifier
 
 BLI_classifier is the code for the EACL paper  [Heyman, Vulic and Moens (EACL, 2017)](http://www.aclweb.org/anthology/E17-1102).
-The code corresponding to the paper can soon be obtained under an academic license at:
+The code corresponding to the paper be obtained at:
 
-http://liir.cs.kuleuven.be/software.php
+http://liir.cs.kuleuven.be/software.html
 
 Until then, you can send me an email to request the code: geert [dot] heyman [at] cs [dot] kuleuven [dot] be
 
